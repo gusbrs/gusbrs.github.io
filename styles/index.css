@@ -1,0 +1,117 @@
+
+:root {
+  /* --gb-heading-color: #b23939; */
+  --gb-heading-color: #b23939;
+  --gb-footer-color: #b27d7d;
+}
+
+html {
+    background-color: #f3f3f3;
+    /* For fonts */
+    /* https://www.w3schools.com/cssref/css_websafe_fonts.asp */
+    /* sans-serif */
+    /* font-family: Verdana, Geneva, sans-serif; */
+    /* font-family: Helvetica, Arial, sans-serif; */
+    /* serif */
+    font-family: Palatino, serif;
+    font-size: 105%;
+}
+
+body {
+    margin: 20px auto;
+    max-width: 800px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+    hyphens: auto;
+}
+
+p.bibitem {
+    text-indent: -1.5em;
+    padding-left: 1.5em;
+}
+
+ul {
+    margin-left: 1.5em;
+    margin-right: 5%;
+}
+
+a:link {
+    color: var(--gb-heading-color);
+}
+
+a:visited {
+    color: grey;
+}
+
+
+h2 {
+    font-size: 1.2em;
+    color: var(--gb-heading-color);
+    margin-top: 2em;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h3 {
+    font-size: 1em;
+    color: var(--gb-heading-color);
+    margin-top: 1.3em;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+h4 {
+    font-size: 1em;
+    color: var(--gb-heading-color);
+    font-weight: normal;
+    font-style: italic;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+img.header {
+    max-width: 100%;
+    max-height: 100vh;
+    margin-top: 5%;
+    height: auto;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px grey;
+    /* margin-bottom: 25px; */
+}
+
+#translate {
+    color: var(--gb-heading-color);
+    font-weight: bold;
+    text-align: right;
+    margin-bottom: -2em;
+}
+
+a.translate:link, a.translate:visited  {
+    color: var(--gb-heading-color);
+    text-decoration: none;
+}
+
+#postamble {
+    font-size: 0.8em;
+    color: var(--gb-footer-color);
+    text-align: right;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#postamble.top {
+    margin-top: 3em;
+    border-top: 2px solid var(--gb-footer-color);
+}
+
+#booklinks {
+    margin-top: 0px;
+}
