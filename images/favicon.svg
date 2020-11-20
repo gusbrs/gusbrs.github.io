@@ -15,7 +15,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="favicon.svg">
+   sodipodi:docname="favicon.svg"
+   inkscape:export-filename="/home/gustavo/Gustavo/Documents/Site/images/favicon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="109.61173"
-     inkscape:cy="91.5539"
+     inkscape:zoom="5.6"
+     inkscape:cx="102.63212"
+     inkscape:cy="93.707487"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -49,7 +52,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -61,24 +64,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:48.22484589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#b23939;fill-opacity:1;stroke:none;stroke-width:1.20562112"
-       x="-2.3879588"
-       y="284.87128"
+       x="-2.6079814"
+       y="286.9697"
        id="text817"><tspan
          sodipodi:role="line"
          id="tspan815"
-         x="-2.3879588"
-         y="284.87128"
+         x="-2.6079814"
+         y="286.9697"
          style="fill:#b23939;fill-opacity:1;stroke-width:1.20562112">g</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:48.22484589px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;opacity:1;fill:#b23939;fill-opacity:1;stroke:none;stroke-width:1.20562112"
-       x="22.569637"
-       y="284.19083"
+       x="22.817337"
+       y="286.22244"
        id="text821"><tspan
          sodipodi:role="line"
          id="tspan819"
-         x="22.569637"
-         y="284.19083"
+         x="22.817337"
+         y="286.22244"
          style="fill:#b23939;fill-opacity:1;stroke-width:1.20562112">b</tspan></text>
   </g>
 </svg>
