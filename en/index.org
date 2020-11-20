@@ -3,6 +3,8 @@
 #+author: Gustavo Barros
 
 #+html_head: <link rel="stylesheet" type="text/css" href="../styles/index.css" />
+#+html_head: <link rel="icon" type="image/png" href="../images/favicon-32x32.png" sizes="32x32" />
+#+html_head: <link rel="icon" type="image/png" href="../images/favicon-16x16.png" sizes="16x16" />
 #+options: title:nil author:nil
 #+options: toc:nil num:nil H:3
 #+options: html-style:nil html-scripts:nil
@@ -25,17 +27,16 @@
 :CUSTOM_ID: introduction
 :END:
 
-I’m a researcher in the area of Economic History of Brazil, and my work
-revolves around the Brazilian industrialization process and the connections
-between the economic and political dimensions of this process, particularly as
-they relate to federative issues.  Within this general scope, I have been
-focusing on the case of the steel sector along the Republican period in
-Brazil.
+I’m a researcher in economic history of Brazil, and my work revolves around
+the Brazilian industrialization process and the connections between the
+economic and political dimensions of this process, particularly as they relate
+to federative issues.  Within this general scope, I have been focusing on the
+case of the steel sector along the Republican period in Brazil.
 
 I hold a bachelor’s degree in Social Sciences and a Master’s and a Doctor of
 Science degrees in Economics, all from the University of São Paulo.  I’m also
-a lecturer (currently on leave of absence) at the Faculty of Economics of the
-Federal University of Juiz de Fora, MG.
+a lecturer at the Faculty of Economics of the Federal University of Juiz de
+Fora, MG (currently on leave of absence).
 
 This site aims to be a stable point of [[#contact][contact]] with people eventually
 interested in my research, and to make available the resulting [[#publications][publications]].
@@ -58,36 +59,38 @@ discoverability of this research by a wider public.
 
 #+attr_html: :class bibitem
 “Dimensionando o problema siderúrgico nacional: A demanda por produtos
-siderúrgicos no Brasil (1901-1940)” [“Assessing the National Steel-Making
+siderúrgicos no Brasil (1901--1940)” [“Assessing the National Steel-Making
 Problem: The Demand for Steel Products in Brazil (1901--1940)”], /Revista de
-História (USP)/, n. 176, 2017.  (at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in Portuguese, with
+História (USP)/, n.\nbsp{}176, 2017.  (at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in Portuguese, with
 English abstract]
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940:
 Crescimento e substituição de importações” [“The Development of the Brazilian
 Steel-Making Sector Between 1900 and 1940: Growth and Import Substitution”],
-/Estudos Econômicos/, v. 45, n. 1, p. 153-183, jan-mar 2015.  (at [[http://ref.scielo.org/5qkbjh][Scielo]] or at
-[[http://www.revistas.usp.br/ee/article/view/69070][EE]]) [in Portuguese, with English abstract]
+/Estudos Econômicos/, v.\nbsp{}45, n.\nbsp{}1, p.\nbsp{}153--183, jan--mar 2015.
+(at [[http://ref.scielo.org/5qkbjh][Scielo]] or at [[http://www.revistas.usp.br/ee/article/view/69070][EE]]) [in Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
-Interstate Input-Output Matrix”, /Revista Brasileira de Economia/, vol. 68, nº
-3, p. 317-335, 2014. (with Joaquim J. M. Guilhoto) (at [[http://ref.scielo.org/h85d6z][Scielo]] or at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]])
-(download the estimated ISIO matrix [[file:../public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][here]])
+Interstate Input-Output Matrix”, /Revista Brasileira de Economia/,
+vol.\nbsp{}68, nº\nbsp{}3, p.\nbsp{}317--335, 2014. (with
+Joaquim J. M. Guilhoto) (at [[http://ref.scielo.org/h85d6z][Scielo]] or at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (download the estimated ISIO
+matrix [[file:../public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][here]])
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940: Criação
 de empresas e evolução da capacidade produtiva” [“The Development of the
 Brazilian Steel-Making Sector Between 1900 and 1940: Firm Creation and
 Evolution of Productive Capacity”], /Revista de História Econômica & Economia
-Regional Aplicada (Heera)/, vol. 8, nº 14, p. 10-32, jan-jun 2013. (at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]],
-at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] or at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]]) [in Portuguese, with English abstract]
+Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14, p.\nbsp{}10--32,
+jan--jun 2013. (at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] or at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]]) [in Portuguese, with English
+abstract]
 
 #+attr_html: :class bibitem
-“Herbert A. Simon and the concept of rationality: Boundaries and procedures”,
-/Revista de Economia Política/, vol. 30, nº 3 (119), p. 455-472, jul-set/2010.
-(at [[http://ref.scielo.org/qwdc98][Scielo]] or at [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]])
+“Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
+/Revista de Economia Política/, vol.\nbsp{}30, nº\nbsp{}3\nbsp{}(119),
+p.\nbsp{}455--472, jul--set/2010.  (at [[http://ref.scielo.org/qwdc98][Scielo]] or at [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]])
 
 
 ** Books
@@ -123,14 +126,15 @@ Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930-1937)” [“Speech and Context: Steel-Making Policy in the First Vargas
-Government (1930-1937)”], 2014.  (at [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] or at [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]]) [in Portuguese, with
+(1930--1937)” [“Speech and Context: Steel-Making Policy in the First Vargas
+Government (1930--1937)”], 2014.  (at [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] or at [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]]) [in Portuguese, with
 English abstract]
 
 #+attr_html: :class bibitem
-“Herbert A. Simon e o conceito de racionalidade: Limites e
-procedimentos”, 2007.  (at [[https://mpra.ub.uni-muenchen.de/id/eprint/71508][MPRA]] or at [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]]) [in Portuguese, see published
-English version above]
+“Herbert A. Simon e o conceito de racionalidade: Limites e procedimentos”
+[“Herbert A. Simon and the Concept of Rationality: Boundaries and
+Procedures”], 2007.  (at [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] or at [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]]) [in Portuguese, see published English
+version above]
 
 
 ** Dissertation and Thesis
@@ -141,14 +145,14 @@ English version above]
 #+attr_html: :class bibitem
 /O Problema siderúrgico nacional na Primeira República/ @@html:[<i>The National
 Steel-Making Problem in the First Republic</i>]@@, Doctoral Dissertation,
-FEA-USP, 2011.  (at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/en.php][Thesis and Dissertations of USP]]) [in Portuguese, with
+FEA--USP, 2011.  (at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/en.php][Thesis and Dissertations of USP]]) [in Portuguese, with
 English abstract]
 
 #+attr_html: :class bibitem
 /Racionalidade e organizações: Um estudo sobre comportamento econômico na obra
 de Herbert A. Simon/ @@html:[<i>Rationality and Organizations: A Study About
 Economic Behavior in the Work of Herbert A. Simon</i>]@@, Master’s Thesis,
-FEA-USP, 2004.  (at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/en.php][Thesis and Dissertations of USP]]) [in Portuguese, with
+FEA--USP, 2004.  (at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/en.php][Thesis and Dissertations of USP]]) [in Portuguese, with
 English abstract]
 
 
@@ -159,15 +163,16 @@ English abstract]
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930-1937)” [“Speech and Context: Steel-Making Policy in the First Vargas
-Government (1930-1937)”], Working Paper Hermes & Clio, São Paulo, 2012. ([[file:~/Gustavo/Documents/Site/public/BarrosG_2012_Discurso e contexto.pdf][here]])
-(see 2014 version above) [in Portuguese]
+(1930--1937)” [“Speech and Context: Steel-Making Policy in the First Vargas
+Government (1930--1937)”], Working Paper Hermes & Clio, São Paulo, 2012.
+([[file:../public/BarrosG_2012_Discurso e
+ contexto.pdf][here]]) (see 2014 version above) [in Portuguese]
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
 Inter-State Input-Output System”, Working Paper Nereus 13-2011, São
-Paulo, 2011. (with Joaquim J. M. Guilhoto) ([[file:~/Gustavo/Documents/Site/public/BarrosG_GuilhotoJJM_2011_TD Nereus 13-2011.pdf][here]], at [[http://www.usp.br/nereus/?txtdiscussao=the-regional-economic-structure-of-brazil-in-1959-an-overview-based-on-an-inter-state-input-output-system][Nereus]] or at [[http://mpra.ub.uni-muenchen.de/37698/][MPRA]])
-(published at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]], vol. 68, nº 3, 2014)
+Paulo, 2011. (with Joaquim J. M. Guilhoto) ([[file:../public/BarrosG_GuilhotoJJM_2011_TD Nereus 13-2011.pdf][here]], at [[http://www.usp.br/nereus/?txtdiscussao=the-regional-economic-structure-of-brazil-in-1959-an-overview-based-on-an-inter-state-input-output-system][Nereus]] or at [[http://mpra.ub.uni-muenchen.de/37698/][MPRA]])
+(published at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]], vol.\nbsp{}68, nº\nbsp{}3, 2014)
 
 
 * Curriculum vitae
@@ -200,14 +205,7 @@ And also my [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&vi
 </p>
 #+end_export
 
-# Universidade Federal de Juiz de Fora\\
-# Faculdade de Economia\\
-# Rua José Lourenço Kelmer, s/n – Campus Universitário\\
-# Bairro São Pedro\\
-# Juiz de Fora – MG\\
-# CEP: 36036-900\\
-
 #+attr_html: :id postamble :class top
 {{{author}}}
 #+attr_html: :id postamble
-{{{modification-time(%Y-%m-%d, t)}}}
+{{{modification-time(%Y-%m-%d)}}}

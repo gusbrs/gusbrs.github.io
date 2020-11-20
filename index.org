@@ -3,6 +3,8 @@
 #+author: Gustavo Barros
 
 #+html_head: <link rel="stylesheet" type="text/css" href="./styles/index.css" />
+#+html_head: <link rel="icon" type="image/png" href="./images/favicon-32x32.png" sizes="32x32" />
+#+html_head: <link rel="icon" type="image/png" href="./images/favicon-16x16.png" sizes="16x16" />
 #+options: title:nil author:nil
 #+options: toc:nil num:nil H:3
 #+options: html-style:nil html-scripts:nil
@@ -31,7 +33,7 @@ articulações entre as dimensões econômica e política, particularmente a
 federativa, desse processo.  Dentro desse escopo geral, tenho me dedicado
 especialmente ao caso do setor siderúrgico ao longo do período republicano.
 
-Sou bacharel em Ciências Sociais, e mestre e doutor em Economia, todos pela
+Sou bacharel em Ciências Sociais, e mestre e doutor em Economia pela
 USP.  Sou também professor (licenciado) da Faculdade de Economia da UFJF.
 
 Essa site visa ser um ponto de [[#contato][contato]] estável com eventuais interessados em
@@ -50,30 +52,33 @@ minha pesquisa, e disponibilizar as [[#publicacoes][publicações]] resultantes 
 
 #+attr_html: :class bibitem
 “Dimensionando o problema siderúrgico nacional: A demanda por produtos
-siderúrgicos no Brasil (1901-1940)”, /Revista de História (USP)/, n. 176, 2017.
-(na [[http://ref.scielo.org/hqc73d][Scielo]] ou na [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]])
+siderúrgicos no Brasil (1901--1940)”, /Revista de História (USP)/,
+n.\nbsp{}176, 2017.  (na [[http://ref.scielo.org/hqc73d][Scielo]] ou na [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]])
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940:
-Crescimento e substituição de importações”, /Estudos
-Econômicos/, v. 45, n. 1, p. 153-183, jan-mar 2015. (na [[http://ref.scielo.org/5qkbjh][Scielo]] ou na [[http://www.revistas.usp.br/ee/article/view/69070][EE]])
+Crescimento e substituição de importações”, /Estudos Econômicos/, v.\nbsp{}45,
+n.\nbsp{}1, p.\nbsp{}153--183, jan--mar 2015. (na [[http://ref.scielo.org/5qkbjh][Scielo]] ou na [[http://www.revistas.usp.br/ee/article/view/69070][EE]])
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
-Interstate Input-Output Matrix”, /Revista Brasileira de Economia/, vol. 68, nº
-3, p. 317-335, 2014. (com Joaquim J. M. Guilhoto) (na [[http://ref.scielo.org/h85d6z][Scielo]] ou na [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (baixe
-a matriz IPIE estimada [[file:public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][aqui]])
+Interstate Input-Output Matrix”, /Revista Brasileira de Economia/,
+vol.\nbsp{}68, nº\nbsp{}3, p.\nbsp{}317--335, 2014. (com
+Joaquim J. M. Guilhoto) (na [[http://ref.scielo.org/h85d6z][Scielo]] ou na [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (baixe a matriz IPIE estimada
+[[file:public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published
+ version).xlsx][aqui]])
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940: Criação
 de empresas e evolução da capacidade produtiva”, /Revista de História Econômica
-& Economia Regional Aplicada (Heera)/, vol. 8, nº 14, p. 10-32,
-jan-jun 2013. (na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] ou no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]])
+& Economia Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14,
+p.\nbsp{}10--32, jan--jun 2013. (na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] ou no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]])
 
 #+attr_html: :class bibitem
-“Herbert A. Simon and the concept of rationality: Boundaries and procedures”,
-/Revista de Economia Política/, vol. 30, nº 3 (119), p. 455-472,
-jul-set/2010. (na [[http://ref.scielo.org/qwdc98][Scielo]] ou na [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]]) (versão em português disponível abaixo)
+“Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
+/Revista de Economia Política/, vol.\nbsp{}30, nº\nbsp{}3\nbsp{}(119),
+p.\nbsp{}455--472, jul--set/2010. (na [[http://ref.scielo.org/qwdc98][Scielo]] ou na [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]]) (versão em português
+disponível abaixo)
 
 
 ** Livros
@@ -105,11 +110,11 @@ ou no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasil
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930-1937)”, 2014. (no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] ou no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]])
+(1930--1937)”, 2014. (no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] ou no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon e o conceito de racionalidade: Limites e
-procedimentos”, 2007.  (no [[https://mpra.ub.uni-muenchen.de/id/eprint/71508][MPRA]] ou no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]])
+procedimentos”, 2007.  (no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] ou no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]])
 
 
 ** Tese e Dissertação
@@ -119,11 +124,11 @@ procedimentos”, 2007.  (no [[https://mpra.ub.uni-muenchen.de/id/eprint/71508][
 
 #+attr_html: :class bibitem
 /O Problema siderúrgico nacional na Primeira República/, Tese de Doutorado,
-FEA-USP, 2011.  (no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/][banco de teses da USP]])
+FEA--USP, 2011.  (no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/][banco de teses da USP]])
 
 #+attr_html: :class bibitem
 /Racionalidade e organizações: Um estudo sobre comportamento econômico na obra
-de Herbert A. Simon/, Dissertação de Mestrado, FEA-USP, 2004.  (no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/][banco de
+de Herbert A. Simon/, Dissertação de Mestrado, FEA--USP, 2004.  (no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/][banco de
 teses da USP]])
 
 
@@ -134,14 +139,14 @@ teses da USP]])
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930-1937)”, Texto para discussão Hermes & Clio, São Paulo, 2012. ([[file:public/BarrosG_2012_Discurso e contexto.pdf][aqui]])
+(1930--1937)”, Texto para discussão Hermes & Clio, São Paulo, 2012. ([[file:public/BarrosG_2012_Discurso e contexto.pdf][aqui]])
 (veja acima versão de 2014)
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
 Inter-State Input-Output System”, Texto para discussão Nereus 13-2011, São
 Paulo, 2011. (com Joaquim J. M. Guilhoto) ([[file:public/BarrosG_GuilhotoJJM_2011_TD Nereus 13-2011.pdf][aqui]], no [[http://www.usp.br/nereus/?txtdiscussao=the-regional-economic-structure-of-brazil-in-1959-an-overview-based-on-an-inter-state-input-output-system][Nereus]] ou no [[http://mpra.ub.uni-muenchen.de/37698/][MPRA]])
-(publicado na [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]], vol. 68, nº 3, 2014)
+(publicado na [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]], vol.\nbsp{}68, nº\nbsp{}3, 2014)
 
 
 * Currículo
@@ -174,14 +179,7 @@ na [[http://ssrn.com/author=1688651][SSRN]].  E também meu [[https://scholar.go
 </p>
 #+end_export
 
-# Universidade Federal de Juiz de Fora\\
-# Faculdade de Economia\\
-# Rua José Lourenço Kelmer, s/n – Campus Universitário\\
-# Bairro São Pedro\\
-# Juiz de Fora – MG\\
-# CEP: 36036-900\\
-
 #+attr_html: :id postamble :class top
 {{{author}}}
 #+attr_html: :id postamble
-{{{modification-time(%Y-%m-%d, t)}}}
+{{{modification-time(%Y-%m-%d)}}}
