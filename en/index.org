@@ -62,7 +62,7 @@ discoverability of this research by a wider public.
 “Dimensionando o problema siderúrgico nacional: A demanda por produtos
 siderúrgicos no Brasil (1901--1940)” [“Assessing the National Steel-Making
 Problem: The Demand for Steel Products in Brazil (1901--1940)”], /Revista de
-História (USP)/, n.\nbsp{}176, 2017.  ([[file:~/Gustavo/Documents/Site/public/BarrosG_2017_Dimensionando o problema siderúrgico nacional.pdf][here]], at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in
+História (USP)/, n.\nbsp{}176, 2017.  ([[file:../public/BarrosG_2017_Dimensionando o problema siderúrgico nacional.pdf][here]], at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in
 Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
