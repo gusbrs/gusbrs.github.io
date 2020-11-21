@@ -27,11 +27,12 @@
 :CUSTOM_ID: introduction
 :END:
 
-I’m a researcher in economic history of Brazil, and my work revolves around
-the Brazilian industrialization process and the connections between the
-economic and political dimensions of this process, particularly as they relate
-to federative issues.  Within this general scope, I have been focusing on the
-case of the steel sector along the Republican period in Brazil.
+I’m a researcher in the area of economic history of Brazil, and my work
+revolves around the Brazilian industrialization process and the connections
+between the economic and political dimensions of this process, particularly as
+they relate to federative issues.  Within this general scope, I have been
+focusing on the case of the steel sector along the Republican period in
+Brazil.
 
 I hold a bachelor’s degree in Social Sciences and a Master’s and a Doctor of
 Science degrees in Economics, all from the University of São Paulo.  I’m also
@@ -61,22 +62,22 @@ discoverability of this research by a wider public.
 “Dimensionando o problema siderúrgico nacional: A demanda por produtos
 siderúrgicos no Brasil (1901--1940)” [“Assessing the National Steel-Making
 Problem: The Demand for Steel Products in Brazil (1901--1940)”], /Revista de
-História (USP)/, n.\nbsp{}176, 2017.  (at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in Portuguese, with
-English abstract]
+História (USP)/, n.\nbsp{}176, 2017.  ([[file:~/Gustavo/Documents/Site/public/BarrosG_2017_Dimensionando o problema siderúrgico nacional.pdf][here]], at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in
+Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940:
 Crescimento e substituição de importações” [“The Development of the Brazilian
 Steel-Making Sector Between 1900 and 1940: Growth and Import Substitution”],
 /Estudos Econômicos/, v.\nbsp{}45, n.\nbsp{}1, p.\nbsp{}153--183, jan--mar 2015.
-(at [[http://ref.scielo.org/5qkbjh][Scielo]] or at [[http://www.revistas.usp.br/ee/article/view/69070][EE]]) [in Portuguese, with English abstract]
+([[file:../public/BarrosG_2015_O Desenvolvimento do setor siderúrgico brasileiro - Crescimento e substituição de importações.pdf][here]], at [[http://ref.scielo.org/5qkbjh][Scielo]] or at [[http://www.revistas.usp.br/ee/article/view/69070][EE]]) [in Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
 Interstate Input-Output Matrix”, /Revista Brasileira de Economia/,
 vol.\nbsp{}68, nº\nbsp{}3, p.\nbsp{}317--335, 2014. (with
-Joaquim J. M. Guilhoto) (at [[http://ref.scielo.org/h85d6z][Scielo]] or at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (download the estimated ISIO
-matrix [[file:../public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][here]])
+Joaquim J. M. Guilhoto) ([[file:../public/BarrosG_GuilhotoJJM_2014_The Regional Economic Structure of Brazil in 1959.pdf][here]], at [[http://ref.scielo.org/h85d6z][Scielo]] or at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (download the estimated
+ISIO matrix [[file:../public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][here]])
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940: Criação
@@ -84,13 +85,13 @@ de empresas e evolução da capacidade produtiva” [“The Development of the
 Brazilian Steel-Making Sector Between 1900 and 1940: Firm Creation and
 Evolution of Productive Capacity”], /Revista de História Econômica & Economia
 Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14, p.\nbsp{}10--32,
-jan--jun 2013. (at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] or at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]]) [in Portuguese, with English
+jan--jun 2013. ([[file:../public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][here]], at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] or at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]]) [in Portuguese, with English
 abstract]
 
 #+attr_html: :class bibitem
 “Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
 /Revista de Economia Política/, vol.\nbsp{}30, nº\nbsp{}3\nbsp{}(119),
-p.\nbsp{}455--472, jul--set/2010.  (at [[http://ref.scielo.org/qwdc98][Scielo]] or at [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]])
+p.\nbsp{}455--472, jul--set/2010.  ([[file:../public/BarrosG_2010_Herbert A. Simon and the Concept of Rationality.pdf][here]], at [[http://ref.scielo.org/qwdc98][Scielo]] or at [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]])
 
 
 ** Books
@@ -105,7 +106,7 @@ de Herbert A. Simon [Rationality and Organizations: A Study About Economic
 Behavior in the Work of Herbert A. Simon], São Paulo: Ed. do Autor, 2016.  [in
 Portuguese, with a summary article in English included in the Appendix]
 #+attr_html: :id booklinks
-- [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]]
+- [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (also at [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]])
 - [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.epub][EPUB]]
 - [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.mobi][Mobi]] (for Kindle, just converted from the original EPUB, so if you have an
   option, prefer the EPUB)
@@ -121,20 +122,20 @@ Portuguese, with a summary article in English included in the Appendix]
 
 #+attr_html: :class bibitem
 “Geopolítica do minério de ferro brasileiro no entreguerras” [“Geopolitics of
-the Brazilian Iron Ore in the Interwar Period”], 2019. (at [[https://mpra.ub.uni-muenchen.de/92489/][MPRA]] or at [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]]) [in
-Portuguese, with English abstract]
+the Brazilian Iron Ore in the Interwar Period”], 2019. ([[file:../public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][here]], at [[https://mpra.ub.uni-muenchen.de/92489/][MPRA]] or at
+[[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]]) [in Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
 (1930--1937)” [“Speech and Context: Steel-Making Policy in the First Vargas
-Government (1930--1937)”], 2014.  (at [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] or at [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]]) [in Portuguese, with
-English abstract]
+Government (1930--1937)”], 2014.  ([[file:../public/BarrosG_2014_Discurso e contexto.pdf][here]], at [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] or at [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]]) [in Portuguese,
+with English abstract]
 
 #+attr_html: :class bibitem
 “Herbert A. Simon e o conceito de racionalidade: Limites e procedimentos”
 [“Herbert A. Simon and the Concept of Rationality: Boundaries and
-Procedures”], 2007.  (at [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] or at [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]]) [in Portuguese, see published English
-version above]
+Procedures”], 2007.  ([[file:../public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][here]], at [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] or at [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]]) [in Portuguese, see published
+English version above]
 
 
 ** Dissertation and Thesis
@@ -145,15 +146,15 @@ version above]
 #+attr_html: :class bibitem
 /O Problema siderúrgico nacional na Primeira República/ @@html:[<i>The National
 Steel-Making Problem in the First Republic</i>]@@, Doctoral Dissertation,
-FEA--USP, 2011.  (at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/en.php][Thesis and Dissertations of USP]]) [in Portuguese, with
-English abstract]
+FEA--USP, 2011.  ([[file:../public/BarrosG_2011_O Problema siderúrgico nacional na Primeira República.pdf][here]] or at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/en.php][Thesis and Dissertations of USP]]) [in Portuguese,
+with English abstract]
 
 #+attr_html: :class bibitem
 /Racionalidade e organizações: Um estudo sobre comportamento econômico na obra
 de Herbert A. Simon/ @@html:[<i>Rationality and Organizations: A Study About
 Economic Behavior in the Work of Herbert A. Simon</i>]@@, Master’s Thesis,
-FEA--USP, 2004.  (at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/en.php][Thesis and Dissertations of USP]]) [in Portuguese, with
-English abstract]
+FEA--USP, 2004.  ([[file:../public/BarrosG_2004_Racionalidade e organizações.pdf][here]] or at [[https://teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/en.php][Thesis and Dissertations of USP]]) [in Portuguese,
+with English abstract]
 
 
 ** Working papers
@@ -209,3 +210,4 @@ And also my [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&vi
 {{{author}}}
 #+attr_html: :id postamble
 {{{modification-time(%Y-%m-%d)}}}
+@@html: <p id="postamble"><a class="postamble" href="https://web.archive.org/web/*/http://gustavo.barros.nom.br/en/">Archived versions</a></p>@@

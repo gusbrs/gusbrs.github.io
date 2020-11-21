@@ -97,6 +97,14 @@ a.translate:link, a.translate:visited  {
     text-decoration: none;
 }
 
+a.postamble:link {
+    color: var(--gb-footer-color);
+}
+
+a.postamble:visited  {
+    color: grey;
+}
+
 #postamble {
     font-size: 0.8em;
     color: var(--gb-footer-color);

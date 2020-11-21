@@ -53,32 +53,31 @@ minha pesquisa, e disponibilizar as [[#publicacoes][publicações]] resultantes 
 #+attr_html: :class bibitem
 “Dimensionando o problema siderúrgico nacional: A demanda por produtos
 siderúrgicos no Brasil (1901--1940)”, /Revista de História (USP)/,
-n.\nbsp{}176, 2017.  (na [[http://ref.scielo.org/hqc73d][Scielo]] ou na [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]])
+n.\nbsp{}176, 2017.  ([[file:public/BarrosG_2017_Dimensionando o problema siderúrgico nacional.pdf][aqui]], na [[http://ref.scielo.org/hqc73d][Scielo]] ou na [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]])
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940:
 Crescimento e substituição de importações”, /Estudos Econômicos/, v.\nbsp{}45,
-n.\nbsp{}1, p.\nbsp{}153--183, jan--mar 2015. (na [[http://ref.scielo.org/5qkbjh][Scielo]] ou na [[http://www.revistas.usp.br/ee/article/view/69070][EE]])
+n.\nbsp{}1, p.\nbsp{}153--183, jan--mar 2015. ([[file:public/BarrosG_2015_O Desenvolvimento do setor siderúrgico brasileiro - Crescimento e substituição de importações.pdf][aqui]], na [[http://ref.scielo.org/5qkbjh][Scielo]] ou na [[http://www.revistas.usp.br/ee/article/view/69070][EE]])
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
 Interstate Input-Output Matrix”, /Revista Brasileira de Economia/,
 vol.\nbsp{}68, nº\nbsp{}3, p.\nbsp{}317--335, 2014. (com
-Joaquim J. M. Guilhoto) (na [[http://ref.scielo.org/h85d6z][Scielo]] ou na [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (baixe a matriz IPIE estimada
-[[file:public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published
- version).xlsx][aqui]])
+Joaquim J. M. Guilhoto) ([[file:public/BarrosG_GuilhotoJJM_2014_The Regional Economic Structure of Brazil in 1959.pdf][aqui]], na [[http://ref.scielo.org/h85d6z][Scielo]] ou na [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (baixe a matriz IPIE
+estimada [[file:public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][aqui]])
 
 #+attr_html: :class bibitem
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940: Criação
 de empresas e evolução da capacidade produtiva”, /Revista de História Econômica
 & Economia Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14,
-p.\nbsp{}10--32, jan--jun 2013. (na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] ou no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]])
+p.\nbsp{}10--32, jan--jun 2013. ([[file:public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][aqui]], na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] ou no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
 /Revista de Economia Política/, vol.\nbsp{}30, nº\nbsp{}3\nbsp{}(119),
-p.\nbsp{}455--472, jul--set/2010. (na [[http://ref.scielo.org/qwdc98][Scielo]] ou na [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]]) (versão em português
-disponível abaixo)
+p.\nbsp{}455--472, jul--set/2010. ([[file:public/BarrosG_2010_Herbert A. Simon and the Concept of Rationality.pdf][aqui]], na [[http://ref.scielo.org/qwdc98][Scielo]] ou na [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]]) (versão em
+português disponível abaixo)
 
 
 ** Livros
@@ -91,7 +90,7 @@ disponível abaixo)
 Racionalidade e Organizações: Um estudo sobre comportamento econômico na obra
 de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 #+attr_html: :id booklinks
-- [[file:public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]]
+- [[file:public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (também no [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]])
 - [[file:public/BarrosG_2016_Racionalidade e Organizacoes.epub][EPUB]]
 - [[file:public/BarrosG_2016_Racionalidade e Organizacoes.mobi][Mobi]] (para Kindle, apenas convertido do EPUB original, se tiver opção,
   prefira o EPUB)
@@ -105,16 +104,16 @@ de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 :END:
 
 #+attr_html: :class bibitem
-“Geopolítica do minério de ferro brasileiro no entreguerras”, 2019. (no [[https://mpra.ub.uni-muenchen.de/92489/][MPRA]]
-ou no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]])
+“Geopolítica do minério de ferro brasileiro no entreguerras”, 2019. ([[file:public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][aqui]], no
+[[https://mpra.ub.uni-muenchen.de/92489/][MPRA]] ou no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]])
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930--1937)”, 2014. (no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] ou no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]])
+(1930--1937)”, 2014. ([[file:public/BarrosG_2014_Discurso e contexto.pdf][aqui]], no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] ou no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon e o conceito de racionalidade: Limites e
-procedimentos”, 2007.  (no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] ou no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]])
+procedimentos”, 2007.  ([[file:public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][aqui]], no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] ou no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]])
 
 
 ** Tese e Dissertação
@@ -124,12 +123,12 @@ procedimentos”, 2007.  (no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] ou
 
 #+attr_html: :class bibitem
 /O Problema siderúrgico nacional na Primeira República/, Tese de Doutorado,
-FEA--USP, 2011.  (no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/][banco de teses da USP]])
+FEA--USP, 2011.  ([[file:public/BarrosG_2011_O Problema siderúrgico nacional na Primeira República.pdf][aqui]] ou no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-24012012-135049/][banco de teses da USP]])
 
 #+attr_html: :class bibitem
 /Racionalidade e organizações: Um estudo sobre comportamento econômico na obra
-de Herbert A. Simon/, Dissertação de Mestrado, FEA--USP, 2004.  (no [[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/][banco de
-teses da USP]])
+de Herbert A. Simon/, Dissertação de Mestrado, FEA--USP, 2004.  ([[file:public/BarrosG_2004_Racionalidade e organizações.pdf][aqui]] ou no
+[[http://www.teses.usp.br/teses/disponiveis/12/12138/tde-05032005-183337/][banco de teses da USP]])
 
 
 ** Textos para discussão
@@ -183,3 +182,4 @@ na [[http://ssrn.com/author=1688651][SSRN]].  E também meu [[https://scholar.go
 {{{author}}}
 #+attr_html: :id postamble
 {{{modification-time(%Y-%m-%d)}}}
+@@html: <p id="postamble"><a class="postamble" href="https://web.archive.org/web/*/http://gustavo.barros.nom.br/">Versões arquivadas</a></p>@@
