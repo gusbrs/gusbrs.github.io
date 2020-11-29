@@ -105,15 +105,15 @@ de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 
 #+attr_html: :class bibitem
 “Geopolítica do minério de ferro brasileiro no entreguerras”, 2019. ([[file:public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][aqui]], no
-[[https://mpra.ub.uni-muenchen.de/92489/][MPRA]] ou no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]])
+[[https://mpra.ub.uni-muenchen.de/92489/][MPRA]], no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018349][HAL]])
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930--1937)”, 2014. ([[file:public/BarrosG_2014_Discurso e contexto.pdf][aqui]], no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]] ou no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]])
+(1930--1937)”, 2014. ([[file:public/BarrosG_2014_Discurso e contexto.pdf][aqui]], no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]], no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018352][HAL]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon e o conceito de racionalidade: Limites e
-procedimentos”, 2007.  ([[file:public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][aqui]], no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]] ou no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]])
+procedimentos”, 2007.  ([[file:public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][aqui]], no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]], no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018353][HAL]])
 
 
 ** Tese e Dissertação
@@ -155,8 +155,8 @@ Paulo, 2011. (com Joaquim J. M. Guilhoto) ([[file:public/BarrosG_GuilhotoJJM_201
 
 Para mais informações, consulte o meu [[http://lattes.cnpq.br/4004536286705376][Currículo (Lattes)]].
 
-Veja os trabalhos disponíveis no [[http://ideas.repec.org/f/pba1232.html][IDEAS]], no [[http://econpapers.repec.org/RAS/pba1232.htm][EconPapers]], no [[https://archive.org/details/@gusbrs][Internet Archive]] ou
-na [[http://ssrn.com/author=1688651][SSRN]].  E também meu [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
+Veja os trabalhos disponíveis no [[http://ideas.repec.org/f/pba1232.html][IDEAS]], no [[http://econpapers.repec.org/RAS/pba1232.htm][EconPapers]], no [[https://archive.org/details/@gusbrs][Internet Archive]], na
+[[http://ssrn.com/author=1688651][SSRN]], ou no [[https://cv.archives-ouvertes.fr/gustavo-barros][HAL]].  E também meu [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
 
 
 * Contato
