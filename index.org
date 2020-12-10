@@ -71,7 +71,7 @@ estimada [[file:public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (publish
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940: Criação
 de empresas e evolução da capacidade produtiva”, /Revista de História Econômica
 & Economia Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14,
-p.\nbsp{}10--32, jan--jun 2013. ([[file:public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][aqui]], na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] ou no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]])
+p.\nbsp{}10--32, jan--jun 2013. ([[file:public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][aqui]], na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]], no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018345][HAL]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,

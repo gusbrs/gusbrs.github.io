@@ -85,8 +85,8 @@ de empresas e evolução da capacidade produtiva” [“The Development of the
 Brazilian Steel-Making Sector Between 1900 and 1940: Firm Creation and
 Evolution of Productive Capacity”], /Revista de História Econômica & Economia
 Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14, p.\nbsp{}10--32,
-jan--jun 2013. ([[file:../public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][here]], at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]] or at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]]) [in Portuguese, with English
-abstract]
+jan--jun 2013. ([[file:../public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][here]], at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]], at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]] or at [[https://hal.archives-ouvertes.fr/hal-03018345][HAL]]) [in Portuguese, with
+English abstract]
 
 #+attr_html: :class bibitem
 “Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
