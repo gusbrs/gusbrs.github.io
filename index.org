@@ -2,6 +2,7 @@
 #+description: História Econômica do Brasil
 #+author: Gustavo Barros
 
+#+html_doctype: html5
 #+html_head: <link rel="stylesheet" type="text/css" href="./styles/index.css" />
 #+html_head: <link rel="icon" type="image/png" href="./images/favicon-32x32.png" sizes="32x32" />
 #+html_head: <link rel="icon" type="image/png" href="./images/favicon-16x16.png" sizes="16x16" />
