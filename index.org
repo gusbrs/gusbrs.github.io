@@ -91,7 +91,7 @@ português disponível abaixo)
 Racionalidade e Organizações: Um estudo sobre comportamento econômico na obra
 de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 #+attr_html: :id booklinks
-- [[file:public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (também no [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]])
+- [[file:public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (também no [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018347][HAL]])
 - [[file:public/BarrosG_2016_Racionalidade e Organizacoes.epub][EPUB]]
 - [[file:public/BarrosG_2016_Racionalidade e Organizacoes.mobi][Mobi]] (para Kindle, apenas convertido do EPUB original, se tiver opção,
   prefira o EPUB)

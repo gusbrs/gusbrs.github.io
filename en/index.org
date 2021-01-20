@@ -107,7 +107,7 @@ de Herbert A. Simon [Rationality and Organizations: A Study About Economic
 Behavior in the Work of Herbert A. Simon], São Paulo: Ed. do Autor, 2016.  [in
 Portuguese, with a summary article in English included in the Appendix]
 #+attr_html: :id booklinks
-- [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (also at [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]])
+- [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (also at [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]] or at [[https://hal.archives-ouvertes.fr/hal-03018347][HAL]])
 - [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.epub][EPUB]]
 - [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.mobi][Mobi]] (for Kindle, just converted from the original EPUB, so if you have an
   option, prefer the EPUB)
