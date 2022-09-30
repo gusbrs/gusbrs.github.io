@@ -63,7 +63,7 @@ discoverability of this research by a wider public.
 “Dimensionando o problema siderúrgico nacional: A demanda por produtos
 siderúrgicos no Brasil (1901--1940)” [“Assessing the National Steel-Making
 Problem: The Demand for Steel Products in Brazil (1901--1940)”], /Revista de
-História (USP)/, n.\nbsp{}176, 2017.  ([[file:../public/BarrosG_2017_Dimensionando o problema siderúrgico nacional.pdf][here]], at [[http://ref.scielo.org/hqc73d][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in
+História (USP)/, n.\nbsp{}176, 2017.  ([[file:../public/BarrosG_2017_Dimensionando o problema siderúrgico nacional.pdf][here]], at [[https://www.scielo.br/j/rh/a/M5BMy88H4GhgS3yMbG9wVWy/][Scielo]] or at [[http://www.revistas.usp.br/revhistoria/article/view/122711][RH]]) [in
 Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
@@ -71,13 +71,13 @@ Portuguese, with English abstract]
 Crescimento e substituição de importações” [“The Development of the Brazilian
 Steel-Making Sector Between 1900 and 1940: Growth and Import Substitution”],
 /Estudos Econômicos/, v.\nbsp{}45, n.\nbsp{}1, p.\nbsp{}153--183, jan--mar 2015.
-([[file:../public/BarrosG_2015_O Desenvolvimento do setor siderúrgico brasileiro - Crescimento e substituição de importações.pdf][here]], at [[http://ref.scielo.org/5qkbjh][Scielo]] or at [[http://www.revistas.usp.br/ee/article/view/69070][EE]]) [in Portuguese, with English abstract]
+([[file:../public/BarrosG_2015_O Desenvolvimento do setor siderúrgico brasileiro - Crescimento e substituição de importações.pdf][here]], at [[https://www.scielo.br/j/ee/a/TpcpwQnnJkYkTKqM5ZJnXtP/][Scielo]] or at [[http://www.revistas.usp.br/ee/article/view/69070][EE]]) [in Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “The Regional Economic Structure of Brazil in 1959: An Overview Based on an
 Interstate Input-Output Matrix”, /Revista Brasileira de Economia/,
 vol.\nbsp{}68, nº\nbsp{}3, p.\nbsp{}317--335, 2014. (with
-Joaquim J. M. Guilhoto) ([[file:../public/BarrosG_GuilhotoJJM_2014_The Regional Economic Structure of Brazil in 1959.pdf][here]], at [[http://ref.scielo.org/h85d6z][Scielo]] or at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (download the estimated
+Joaquim J. M. Guilhoto) ([[file:../public/BarrosG_GuilhotoJJM_2014_The Regional Economic Structure of Brazil in 1959.pdf][here]], at [[https://www.scielo.br/j/rbe/a/bBDPsLMZKKvTkhYdstzSsVJ/][Scielo]] or at [[http://bibliotecadigital.fgv.br/ojs/index.php/rbe/article/view/5848][RBE]]) (download the estimated
 ISIO matrix [[file:../public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (published version).xlsx][here]])
 
 #+attr_html: :class bibitem
@@ -92,7 +92,7 @@ English abstract]
 #+attr_html: :class bibitem
 “Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
 /Revista de Economia Política/, vol.\nbsp{}30, nº\nbsp{}3\nbsp{}(119),
-p.\nbsp{}455--472, jul--set/2010.  ([[file:../public/BarrosG_2010_Herbert A. Simon and the Concept of Rationality.pdf][here]], at [[http://ref.scielo.org/qwdc98][Scielo]] or at [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]])
+p.\nbsp{}455--472, jul--set/2010.  ([[file:../public/BarrosG_2010_Herbert A. Simon and the Concept of Rationality.pdf][here]], at [[https://www.scielo.br/j/rep/a/CWfwPPVWKvLrndfxR9vYFHL/][Scielo]] or at [[https://centrodeeconomiapolitica.org.br/rep/index.php/journal/article/view/453][REP]])
 
 
 ** Books
