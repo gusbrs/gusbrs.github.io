@@ -173,8 +173,6 @@ Veja os trabalhos disponíveis no [[http://ideas.repec.org/f/pba1232.html][IDEAS
 <span style="color:var(--gb-heading-color)">{at)</span>
 &#117;&#102;&#106;&#102;
 <span style="color:var(--gb-heading-color)">{dot]</span>
-&#101;&#100;&#117;
-<span style="color:var(--gb-heading-color)">[dot}</span>
 &#98;&#114;
 </p>
 #+end_export
