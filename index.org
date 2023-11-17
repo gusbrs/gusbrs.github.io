@@ -105,6 +105,9 @@ de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 :END:
 
 #+attr_html: :class bibitem
+“Defesa do café em tempos de guerra: A segunda valorização e o decreto de
+‘defesa nacional’ de 1917”, 2023. ([[file:public/BarrosG_2023_Segunda valorização e o decreto de defesa nacional.pdf][aqui]], no MPRA, no [[https://archive.org/details/defesa-do-cafe-em-tempos-de-guerra][IA]] ou no HAL)
+
 #+attr_html: :class bibitem
 “Geopolítica do minério de ferro brasileiro no entreguerras”, 2019.  (Este
 trabalho está licenciado sob Attribution-ShareAlike 4.0 International.  Para
