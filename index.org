@@ -109,11 +109,10 @@ de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 ‘defesa nacional’ de 1917”, 2023. ([[file:public/BarrosG_2023_Segunda valorização e o decreto de defesa nacional.pdf][aqui]], no MPRA, no [[https://archive.org/details/defesa-do-cafe-em-tempos-de-guerra][IA]] ou no HAL)
 
 #+attr_html: :class bibitem
-“Geopolítica do minério de ferro brasileiro no entreguerras”, 2019.  (Este
-trabalho está licenciado sob Attribution-ShareAlike 4.0 International.  Para
-ver uma cópia desta licença, visite
-http://creativecommons.org/licenses/by-sa/4.0/.)  ([[file:public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][aqui]], no [[https://mpra.ub.uni-muenchen.de/92489/][MPRA]], no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]] ou no
-[[https://hal.science/hal-03018349][HAL]])
+“Geopolítica do minério de ferro brasileiro no entreguerras”, 2019. ([[file:public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][aqui]], no
+[[https://mpra.ub.uni-muenchen.de/92489/][MPRA]], no [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]] ou no [[https://hal.science/hal-03018349][HAL]]) (Este trabalho está licenciado sob
+Attribution-ShareAlike 4.0 International.  Para ver uma cópia desta licença,
+visite http://creativecommons.org/licenses/by-sa/4.0/.)
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas

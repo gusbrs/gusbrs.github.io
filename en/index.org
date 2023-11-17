@@ -129,10 +129,10 @@ MPRA, at [[https://archive.org/details/defesa-do-cafe-em-tempos-de-guerra][IA]] 
 
 #+attr_html: :class bibitem
 “Geopolítica do minério de ferro brasileiro no entreguerras” [“Geopolitics of
-the Brazilian Iron Ore in the Interwar Period”], 2019.  (This work is licensed
-under Attribution-ShareAlike 4.0 International.  To view a copy of this
-license, visit http://creativecommons.org/licenses/by-sa/4.0/.) ([[file:../public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][here]], at
-[[https://mpra.ub.uni-muenchen.de/92489/][MPRA]], at [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]] or at [[https://hal.science/hal-03018349][HAL]]) [in Portuguese, with English abstract]
+the Brazilian Iron Ore in the Interwar Period”], 2019. ([[file:../public/BarrosG_2019_Geopolitica do minerio de ferro brasileiro no entreguerras.pdf][here]], at [[https://mpra.ub.uni-muenchen.de/92489/][MPRA]], at [[https://archive.org/details/BarrosG2019GeopoliticaDoMinerioDeFerroBrasileiroNoEntreguerras][IA]]
+or at [[https://hal.science/hal-03018349][HAL]]) [in Portuguese, with English abstract] (This work is licensed under
+Attribution-ShareAlike 4.0 International.  To view a copy of this license,
+visit http://creativecommons.org/licenses/by-sa/4.0/.)
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
