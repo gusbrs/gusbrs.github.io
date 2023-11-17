@@ -86,7 +86,7 @@ de empresas e evolução da capacidade produtiva” [“The Development of the
 Brazilian Steel-Making Sector Between 1900 and 1940: Firm Creation and
 Evolution of Productive Capacity”], /Revista de História Econômica & Economia
 Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14, p.\nbsp{}10--32,
-jan--jun 2013. ([[file:../public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][here]], at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]], at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]] or at [[https://hal.archives-ouvertes.fr/hal-03018345][HAL]]) [in Portuguese, with
+jan--jun 2013. ([[file:../public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][here]], at [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], at [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]], at [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]] or at [[https://hal.science/hal-03018345][HAL]]) [in Portuguese, with
 English abstract]
 
 #+attr_html: :class bibitem
@@ -107,7 +107,7 @@ de Herbert A. Simon [Rationality and Organizations: A Study About Economic
 Behavior in the Work of Herbert A. Simon], São Paulo: Ed. do Autor, 2016.  [in
 Portuguese, with a summary article in English included in the Appendix]
 #+attr_html: :id booklinks
-- [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (also at [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]] or at [[https://hal.archives-ouvertes.fr/hal-03018347][HAL]])
+- [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (also at [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]] or at [[https://hal.science/hal-03018347][HAL]])
 - [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.epub][EPUB]]
 - [[file:../public/BarrosG_2016_Racionalidade e Organizacoes.mobi][Mobi]] (for Kindle, just converted from the original EPUB, so if you have an
   option, prefer the EPUB)
@@ -137,13 +137,13 @@ license, visit http://creativecommons.org/licenses/by-sa/4.0/.) ([[file:../publi
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
 (1930--1937)” [“Speech and Context: Steel-Making Policy in the First Vargas
-Government (1930--1937)”], 2014.  ([[file:../public/BarrosG_2014_Discurso e contexto.pdf][here]], at [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]], at [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]] or at [[https://hal.archives-ouvertes.fr/hal-03018352][HAL]]) [in
+Government (1930--1937)”], 2014.  ([[file:../public/BarrosG_2014_Discurso e contexto.pdf][here]], at [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]], at [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]] or at [[https://hal.science/hal-03018352][HAL]]) [in
 Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “Herbert A. Simon e o conceito de racionalidade: Limites e procedimentos”
 [“Herbert A. Simon and the Concept of Rationality: Boundaries and
-Procedures”], 2007.  ([[file:../public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][here]], at [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]], at [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]] or at [[https://hal.archives-ouvertes.fr/hal-03018353][HAL]]) [in Portuguese, see
+Procedures”], 2007.  ([[file:../public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][here]], at [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]], at [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]] or at [[https://hal.science/hal-03018353][HAL]]) [in Portuguese, see
 published English version above]
 
 
@@ -193,7 +193,7 @@ Paulo, 2011. (with Joaquim J. M. Guilhoto) ([[file:../public/BarrosG_GuilhotoJJM
 For more information, visit my [[http://lattes.cnpq.br/4004536286705376][curriculum vitae]] (in Portuguese).
 
 Check the available works at [[http://ideas.repec.org/f/pba1232.html][IDEAS]], [[http://econpapers.repec.org/RAS/pba1232.htm][EconPapers]], [[https://archive.org/details/@gusbrs][Internet Archive]], [[http://ssrn.com/author=1688651][SSRN]], and
-[[https://cv.archives-ouvertes.fr/gustavo-barros][HAL]].  And also my [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
+[[https://cv.hal.science/gustavo-barros][HAL]].  And also my [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
 
 
 * Contact

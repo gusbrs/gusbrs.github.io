@@ -72,7 +72,7 @@ estimada [[file:public/BarrosG_GuilhotoJJM_2014_ISIO Matrix Brazil 1959 (publish
 “O Desenvolvimento do setor siderúrgico brasileiro entre 1900 e 1940: Criação
 de empresas e evolução da capacidade produtiva”, /Revista de História Econômica
 & Economia Regional Aplicada (Heera)/, vol.\nbsp{}8, nº\nbsp{}14,
-p.\nbsp{}10--32, jan--jun 2013. ([[file:public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][aqui]], na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]], no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018345][HAL]])
+p.\nbsp{}10--32, jan--jun 2013. ([[file:public/BarrosG_2013_O Desenvolvimento do setor siderúrgico brasileiro - Criação de empresas e evolução da capacidade produtiva.pdf][aqui]], na [[http://www.ufjf.br/heera/files/2009/11/Cria%C3%A7%C3%A3o-de-empresas-e-evolu%C3%A7%C3%A3o-da-capacidade-produtiva-identificada1.pdf][Heera]], no [[http://mpra.ub.uni-muenchen.de/57399/][MPRA]], no [[https://archive.org/details/ODesenvolvimentoDoSetorSiderurgicoBrasileiroEntre1900E1940CriacaoDeEmpresasEEvol][IA]] ou no [[https://hal.science/hal-03018345][HAL]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon and the Concept of Rationality: Boundaries and Procedures”,
@@ -91,7 +91,7 @@ português disponível abaixo)
 Racionalidade e Organizações: Um estudo sobre comportamento econômico na obra
 de Herbert A. Simon, São Paulo: Ed. do Autor, 2016.
 #+attr_html: :id booklinks
-- [[file:public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (também no [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018347][HAL]])
+- [[file:public/BarrosG_2016_Racionalidade e Organizacoes.pdf][PDF]] (também no [[https://archive.org/details/Racionalidade-e-Organizacoes][IA]] ou no [[https://hal.science/hal-03018347][HAL]])
 - [[file:public/BarrosG_2016_Racionalidade e Organizacoes.epub][EPUB]]
 - [[file:public/BarrosG_2016_Racionalidade e Organizacoes.mobi][Mobi]] (para Kindle, apenas convertido do EPUB original, se tiver opção,
   prefira o EPUB)
@@ -117,11 +117,11 @@ http://creativecommons.org/licenses/by-sa/4.0/.)  ([[file:public/BarrosG_2019_Ge
 
 #+attr_html: :class bibitem
 “Discurso e contexto: Política siderúrgica no primeiro governo Vargas
-(1930--1937)”, 2014. ([[file:public/BarrosG_2014_Discurso e contexto.pdf][aqui]], no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]], no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018352][HAL]])
+(1930--1937)”, 2014. ([[file:public/BarrosG_2014_Discurso e contexto.pdf][aqui]], no [[http://mpra.ub.uni-muenchen.de/57656/][MPRA]], no [[https://archive.org/details/DiscursoEContextoPoliticaSiderurgicaNoPrimeiroGovernoVargas1930-1937][IA]] ou no [[https://hal.science/hal-03018352][HAL]])
 
 #+attr_html: :class bibitem
 “Herbert A. Simon e o conceito de racionalidade: Limites e
-procedimentos”, 2007.  ([[file:public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][aqui]], no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]], no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]] ou no [[https://hal.archives-ouvertes.fr/hal-03018353][HAL]])
+procedimentos”, 2007.  ([[file:public/BarrosG_2007_Herbert A. Simon e o conceito de racionalidade.pdf][aqui]], no [[https://mpra.ub.uni-muenchen.de/71508/][MPRA]], no [[https://archive.org/details/HerbertA.SimonEOConceitoDeRacionalidadeLimitesEProcedimentos][IA]] ou no [[https://hal.science/hal-03018353][HAL]])
 
 
 ** Tese e Dissertação
@@ -164,7 +164,7 @@ Paulo, 2011. (com Joaquim J. M. Guilhoto) ([[file:public/BarrosG_GuilhotoJJM_201
 Para mais informações, consulte o meu [[http://lattes.cnpq.br/4004536286705376][Currículo (Lattes)]].
 
 Veja os trabalhos disponíveis no [[http://ideas.repec.org/f/pba1232.html][IDEAS]], no [[http://econpapers.repec.org/RAS/pba1232.htm][EconPapers]], no [[https://archive.org/details/@gusbrs][Internet Archive]], na
-[[http://ssrn.com/author=1688651][SSRN]], ou no [[https://cv.archives-ouvertes.fr/gustavo-barros][HAL]].  E também meu [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
+[[http://ssrn.com/author=1688651][SSRN]], ou no [[https://cv.hal.science/gustavo-barros][HAL]].  E também meu [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
 
 
 * Contato
