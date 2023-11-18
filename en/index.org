@@ -125,7 +125,7 @@ Portuguese, with a summary article in English included in the Appendix]
 “Defesa do café em tempos de guerra: A segunda valorização e o decreto de
 ‘defesa nacional’ de 1917” [“Defense of coffee in times of war: The second
 valorization and the ‘national defense’ decree of 1917”], 2023. ([[file:../public/BarrosG_2023_Segunda valorização e o decreto de defesa nacional.pdf][here]], at
-MPRA, at [[https://archive.org/details/defesa-do-cafe-em-tempos-de-guerra][IA]] or at HAL) [in Portuguese, with English abstract]
+[[https://mpra.ub.uni-muenchen.de/119179/][MPRA]], at [[https://archive.org/details/defesa-do-cafe-em-tempos-de-guerra][IA]] or at [[https://hal.science/hal-04291729][HAL]]) [in Portuguese, with English abstract]
 
 #+attr_html: :class bibitem
 “Geopolítica do minério de ferro brasileiro no entreguerras” [“Geopolitics of
