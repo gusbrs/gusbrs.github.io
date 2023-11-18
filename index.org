@@ -37,8 +37,8 @@ especialmente ao caso do setor siderúrgico ao longo do período republicano.
 Sou bacharel em Ciências Sociais, e mestre e doutor em Economia pela
 USP.  Sou também professor (licenciado) da Faculdade de Economia da UFJF.
 
-Essa site visa ser um ponto de [[#contato][contato]] estável com eventuais interessados em
-minha pesquisa, e disponibilizar as [[#publicacoes][publicações]] resultantes dela.
+Essa site visa ser um ponto de acesso estável para eventuais interessados em
+minha pesquisa, disponibilizando as [[#publicacoes][publicações]] resultantes dela.
 
 
 * Publicações
@@ -166,22 +166,6 @@ Veja os trabalhos disponíveis no [[http://ideas.repec.org/f/pba1232.html][IDEAS
 [[http://ssrn.com/author=1688651][SSRN]], ou no [[https://cv.hal.science/gustavo-barros][HAL]].  E também meu [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
 
 
-* Contato
-:PROPERTIES:
-:CUSTOM_ID: contato
-:END:
-
-#+begin_export html
-<p>
-&#103;&#117;&#115;&#116;&#97;&#118;&#111;
-<span style="color:var(--gb-heading-color)">[dot)</span>
-&#98;&#97;&#114;&#114;&#111;&#115;
-<span style="color:var(--gb-heading-color)">{at)</span>
-&#117;&#102;&#106;&#102;
-<span style="color:var(--gb-heading-color)">{dot]</span>
-&#98;&#114;
-</p>
-#+end_export
 
 #+attr_html: :id postamble :class top
 {{{author}}}

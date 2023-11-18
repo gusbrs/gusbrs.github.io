@@ -40,8 +40,8 @@ Science degrees in Economics, all from the University of São Paulo.  I’m also
 a lecturer at the Faculty of Economics of the Federal University of Juiz de
 Fora, MG (currently on leave of absence).
 
-This site aims to be a stable point of [[#contact][contact]] with people eventually
-interested in my research, and to make available the resulting [[#publications][publications]].
+This site aims to be a stable point of access for people eventually interested
+in my research, collecting the resulting [[#publications][publications]].
 
 Most of my work is written in Portuguese, my native language.  I hope to be
 able to at least mitigate this someday.  In the meantime, I keep this page
@@ -196,22 +196,6 @@ Check the available works at [[http://ideas.repec.org/f/pba1232.html][IDEAS]], [
 [[https://cv.hal.science/gustavo-barros][HAL]].  And also my [[https://scholar.google.com.br/citations?hl=en&user=ILrYAOwAAAAJ&view_op=list_works&authuser=1&gmla=AJsN-F79EJ1ocBtpBqEUL9YgMcgTRbSh_pRJQqhF8x532Hybk0QKYjMbdmcY5OPxsEKnE699btQwAb39u-gUcowJJj6rGJuoHjSP9hpwty0n3jWbI9tA63w5rGP9LUhhgYpGCCOANGpz][Google Scholar Profile]].
 
 
-* Contact
-:PROPERTIES:
-:CUSTOM_ID: contact
-:END:
-
-#+begin_export html
-<p>
-&#103;&#117;&#115;&#116;&#97;&#118;&#111;
-<span style="color:var(--gb-heading-color)">[dot)</span>
-&#98;&#97;&#114;&#114;&#111;&#115;
-<span style="color:var(--gb-heading-color)">{at)</span>
-&#117;&#102;&#106;&#102;
-<span style="color:var(--gb-heading-color)">{dot]</span>
-&#98;&#114;
-</p>
-#+end_export
 
 #+attr_html: :id postamble :class top
 {{{author}}}
